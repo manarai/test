@@ -449,7 +449,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for questions and general discussion
-- **Email**: [your-email@domain.com] for private inquiries
 
 ---
 
@@ -461,5 +460,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ for the single-cell biology community*
 
